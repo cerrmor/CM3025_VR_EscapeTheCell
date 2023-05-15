@@ -1,0 +1,16 @@
+{
+  "source": "Unity",
+  "applications": [
+    {
+      "app_key": "application.generated.unity.escapevr.exe",
+      "launch_type": "url",
+      "url": "steam://launch/",
+      "action_manifest_path": "D:\\garrisonSchool\\6th Semester\\cm3025_VirtualReality\\FinalSubmission\\EscapeVR\\Assets\\StreamingAssets\\SteamVR\\actions.json",
+      "strings": {
+        "en_us": {
+          "name": "EscapeVR [Testing]"
+        }
+      }
+    }
+  ]
+}
